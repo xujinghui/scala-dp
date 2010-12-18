@@ -13,7 +13,7 @@ public class JavaScala {
      * @param args
      */
     public static void main(String[] args) {
-	System.out.println("Scala. IN 123");
+	System.out.println("Scala. BAC 123");
 
     }
 
