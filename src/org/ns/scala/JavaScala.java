@@ -14,7 +14,7 @@ public class JavaScala {
      */
     public static void main(String[] args) {
         System.out.println("Scala. 666666666666666666a 123");
-
+        System.out.print("Hello world");
     }
 
 }
